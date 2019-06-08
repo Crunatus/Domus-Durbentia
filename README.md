@@ -8,4 +8,5 @@ Background Information:
 More information can be read here:
 
 https://blood-wiki.org/index.php/Cultist_Language
+
 https://www.altarofstone.com/forums/viewtopic.php?t=49
